@@ -1,4 +1,4 @@
-# Deep drowsiness detection with yolov5
+# Deep drowsiness detection with yolov5s
 
 
 
